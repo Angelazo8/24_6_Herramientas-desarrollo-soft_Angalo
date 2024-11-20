@@ -27,5 +27,3 @@ La base de datos consta de valores como:
 *****URL de la app en Render*****
 https://two409-proyecto-sprint-6.onrender.com/
 
-Cambio de nombre
-
